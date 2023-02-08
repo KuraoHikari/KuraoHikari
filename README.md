@@ -1,4 +1,4 @@
-### Hi 👋, I'm 
+### Hi 👋, I'm
 
 <h3 align="center"><a href="https://github.com/KuraoHikari">
    <img alt="Kurao Hikari" src="https://readme-typing-svg.herokuapp.com/?lines=Kurao+Hikari;Go+Back-end+developer&font=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
@@ -6,7 +6,7 @@
 
 <h3>🔎 About me :</h3>
 
-- 🔭 I’m currently working on ***[Cartenz](https://cartenz.co.id)***
+- 🔭 I’m currently working on **_[Cartenz](https://cartenz.co.id)_**
 - 🌱 I’m learning: **Java, Go and Back-end**
 - 💬 Ask me about **[my facebook](https://www.facebook.com/thewa.indra.1)**
 - 😍 I love Anime and 💙golang💙
@@ -37,10 +37,11 @@
    
 </p>
 
-
 <img alt="KuraoHikari's Top Languages" src="github-readme-stats-kuraohikari.vercel.app/api/top-langs?username=KuraoHikari&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=CSS,Java,HTML,Ruby%2B%2B,Ren'Py" height="198px"/>
 
 <h3>🔥 Statistics :</h3>
 <img alt="KuraoHikari's streak" src="http://github-readme-streak-stats.herokuapp.com?user=KuraoHikari&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4"/>
 <!-- <img alt="Achievements" src="https://github-profile-trophy.vercel.app/?username=hud0shnik&theme=nord&title=MultiLanguage,Commits,Followers,Stars&no-frame=true&margin-w=18"/> -->
 <img alt="KuraoHikari's Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=KuraoHikari&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=68C3D4&icon_color=FFE8D1&hide_title=true&hide=contribs"/>
+
+<!--START_SECTION:activity-->
